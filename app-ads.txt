@@ -1,3 +1,5 @@
+#meta
+facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 google.com, pub-2919559330315762, DIRECT, f08c47fec0942fa0
 (update 9/9/2025)
 google.com, pub-5582226006165721, DIRECT, f08c47fec0942fa0
